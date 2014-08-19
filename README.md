@@ -1,4 +1,6 @@
 hello-world
 ===========
 
-Repository for Ruby class
+New Circle Ruby class
+
+Hello - I'm Jan and I am happy to be learning programming in a formal setting again. I like bagels.
